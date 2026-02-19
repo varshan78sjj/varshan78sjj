@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#FF1493;">S J Jayavarshan</span>
+  Hi 👋, I'm <span style="color:#0992C2;">S J Jayavarshan</span>
 </h1>
 
 <p align="center">
