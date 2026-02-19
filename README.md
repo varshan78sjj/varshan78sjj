@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#0992C2;">S J Jayavarshan</span>
+  Hi, I'm <span style="color:#0992C2;">S J Jayavarshan</span>
 </h1>
 
 <p align="center">
@@ -8,19 +8,19 @@
 
 ---
 
-## 👩‍💻 About Me 
+## About Me 
 
-💻 I have a strong foundation in programming languages such as **Python and C**.  
+I have a strong foundation in programming languages such as **Python and C**.  
 
-🌐 I am proficient in **HTML, CSS, JavaScript**, and FullStack development using **Django And React**, along with database management using **MySQL**.  
+I am proficient in **HTML, CSS, JavaScript**, and FullStack development using **Django And React**, along with database management using **MySQL**.  
 
-🚀 I have hands-on experience in developing web applications, which has strengthened my technical and problem-solving skills.  
+I have hands-on experience in developing web applications, which has strengthened my technical and problem-solving skills.  
 
-⚡ I am a quick learner, highly adaptable, and passionate about continuous learning and applying my knowledge to real-world challenges.
+I am a quick learner, highly adaptable, and passionate about continuous learning and applying my knowledge to real-world challenges.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,django,mysql,git,github,bootstrap,react,angular&perline=5" /><br>Python | C | HTML | CSS | Javascript | Django | Mysql | Git | Github | Bootstrap | React | Angular
