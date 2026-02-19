@@ -23,5 +23,5 @@ I am a quick learner, highly adaptable, and passionate about continuous learning
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,django,mysql,git,github,bootstrap,react,angular&perline=5" /><br>Python | C | HTML | CSS | Javascript | Django | Mysql | Git | Github | Bootstrap | React | Angular
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,django,mysql,git,github,bootstrap,react,angular,outsystem&perline=5" /><br>Python | C | HTML | CSS | Javascript | Django | Mysql | Git | Github | Bootstrap | React | Angular | Outsystem
 </p>
